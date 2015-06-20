@@ -1,6 +1,5 @@
 Getting and Cleaning Data Project
 
-Heather Wade
 
 Description
 
